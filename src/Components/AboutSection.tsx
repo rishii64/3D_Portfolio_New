@@ -105,7 +105,7 @@ const AboutSection = () => {
               <div className="absolute inset-0 rounded-full bg-gradient-to-r from-purple-400 via-blue-500 to-cyan-400 p-1 animate-pulse">
                 <div className="w-full h-full rounded-full bg-gradient-to-br from-gray-800 to-gray-900 flex items-center justify-center overflow-hidden">
                   <img 
-                    src="/lovable-uploads/829d2ee7-a6cf-4609-8cc7-e5b5ce717fcc.png" 
+                    src="https://res.cloudinary.com/rishiicloudinary/image/upload/v1751309827/Avatar_nlwfbb.jpg" 
                     alt="Saptarsi"
                     className="w-full h-full object-cover rounded-full"
                   />
